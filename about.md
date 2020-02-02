@@ -245,5 +245,5 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
 
 * Big Science Competition Certificate of High Distinction (2016)
 
-### [Download CV]({{site.url}}/assets/Portfolio.pdf)
+### [Download CV]({{site.url}}/assets/CV2.pdf)
 <!-- bundle exec jekyll serve -->
