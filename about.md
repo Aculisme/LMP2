@@ -10,12 +10,8 @@ permalink: /about/
 
 #### **Physics HL Extended Essay: Solar Optimization**
 
-For my International Baccalaureate Extended Essay in Physics I chose to investigate the optimum angles for a solar panel located in Geneva Switzerland. My research question was: _"What is the optimal tilt angle of a fixed-position polycrystalline photovoltaic solar panel located in Geneva, Switzerland with respect to maximum annual energy generation?"_.  
-
-Links:
-
-* [Final draft: (currently undergoing moderation)]({{site.url}}/assets/EEV7_-_Luca_Mehl.pdf)
-
+For my International Baccalaureate Extended Essay in Physics I chose to investigate the optimum angles for a solar panel located in Geneva Switzerland. My research question was: _"What is the optimal tilt angle of a fixed-position polycrystalline photovoltaic solar panel located in Geneva, Switzerland with respect to maximum annual energy generation?"_.
+Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/EEV7_-_Luca_Mehl.pdf)  
 
 #### **Maths HL Internal Assessment: Numerical Methods**
 
