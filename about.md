@@ -23,6 +23,11 @@ Links:
 * [First draft (currently undergoing moderation)]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf)
 * [Github repo of scripts created](https://github.com/Aculisme/zero_algorithms)
 
+#### **Chemistry SL Internal Assessment: Propanation of Iodine**
+
+For my Chemistry Internal Assessment I experimentally determined the activation energy of the Propanation of Iodine reaction.  
+Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/Chem_IA_-_Luca_Mehl.pdf)  
+
 #### **Network Analysis Version 14 (NV14)**
 
 A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my year group. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.  
