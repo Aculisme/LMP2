@@ -22,7 +22,6 @@ For my Maths Internal Assessment I wrote a paper exploring various numerical num
 Languages: `Python (Matplotlib, Numpy)`, `Git`  
 Status: `Pending review`  
 Links:
-
 <!-- * [First draft (currently undergoing moderation)]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf) -->
 * [Github repo of scripts created](https://github.com/Aculisme/zero_algorithms)
 
@@ -134,7 +133,7 @@ This website is hosted by Netlify (formerly Bitballoon), deployed from [Github](
 Languages: `Git` `Markdown`  
 Version control: `Git` | `Github`  
 Status: `regularly updated`  
-Links: [https://lucamehl.netlify.com](https://lucamehl.netlify.com)  
+Links: [{{site.url}}]({{site.url}}/)  
 
 #### **Reddit text generator**
 
@@ -200,6 +199,7 @@ I conducted a week-long internship at CERN with the web development and app deve
 #### **EPFL Robotics Course**
 
 I participated in a week-long course in mobile robotics offered by the École Polytechinique Fédérale de Lausanne (EPFL) and hosted by Professor Francesco Mondada. We covered CS/robotics elements including control system programming, mapping/localization (SLAM), behavioral algorithms, and neural nets (RNNs).
+<!-- Add imgur album? -->
 
 #### **MIT Beaver Works Summer Institute**
 
@@ -262,12 +262,12 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
   * Programming: 26h
   * Badminton: 26h
   * Tournament organization: 26h
-* **Gold level in progress**
+* **Gold level (in progress)**
   * 6-person team leader
   * Data visualization: 52h
   * Badminton: 52h
   * Student council: 52h
-
+<!-- Add images! -->
 #### **Other**
 
 * Big Science Competition Certificate of High Distinction (2016)
