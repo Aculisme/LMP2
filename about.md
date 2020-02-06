@@ -8,10 +8,13 @@ permalink: /about/
 ---
 
 
+### [Download CV]({{site.url}}/assets/CV2.pdf)  
+
 #### **Physics HL Extended Essay: Solar Optimization**
 
-For my International Baccalaureate Extended Essay in Physics I chose to investigate the optimum angles for a solar panel located in Geneva Switzerland. My research question was: _"What is the optimal tilt angle of a fixed-position polycrystalline photovoltaic solar panel located in Geneva, Switzerland with respect to maximum annual energy generation?"_.  
-Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/EEV7_-_Luca_Mehl.pdf)  
+For my International Baccalaureate Extended Essay in Physics I chose to investigate the optimum positioning of a solar panel located in Geneva Switzerland. My research question was: _"What is the optimal tilt angle of a fixed-position polycrystalline photovoltaic solar panel located in Geneva, Switzerland with respect to maximum annual energy generation?"_.  
+<!-- Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/EEV7_-_Luca_Mehl.pdf)   -->
+
 
 #### **Maths HL Internal Assessment: Numerical Methods**
 
@@ -20,13 +23,13 @@ Languages: `Python (Matplotlib, Numpy)`, `Git`
 Status: `Pending review`  
 Links:
 
-* [First draft (currently undergoing moderation)]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf)
+<!-- * [First draft (currently undergoing moderation)]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf) -->
 * [Github repo of scripts created](https://github.com/Aculisme/zero_algorithms)
 
-#### **Chemistry SL Internal Assessment: Propanation of Iodine**
+#### **Chemistry SL Internal Assessment: Iodination of Propanone Reaction**
 
-For my Chemistry Internal Assessment I experimentally determined the activation energy of the Propanation of Iodine reaction.  
-Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/Chem_IA_-_Luca_Mehl.pdf)  
+For my Chemistry Internal Assessment I experimentally determined the activation energy of the iodination of propanone reaction.  
+<!-- Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/Chem_IA_-_Luca_Mehl.pdf)   -->
 
 #### **Network Analysis Version 14 (NV14)**
 
@@ -69,6 +72,31 @@ Links:
 * [Duke of Edinburgh's International Award silver level trip recorded with PWDL](https://ia-silver-route-2018.netlify.com)
 * [Photos of PWDL](https://imgur.com/a/p59KwQB)
 
+#### **MEAI (MemeEconomy Artificial Intelligence)**
+
+Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit](https://reddit.com) bot. Uses database logging, tensorflow, python reddit API (PRAW).  
+Languages: `Python`  
+Version control: `Git` | `Bitbucket`  
+Status: `in progress`  
+Links: [Homepage](https://meai.ml)  
+
+#### **Raspberry Pi Home Server**
+
+A Raspberri-pi -based home server running Ubuntu Server, can be controlled though SSH/SFTP even out-of-network using portforwarding. 
+Status: `in progress`  
+
+#### **Custom event ticketing software**
+
+Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus's student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door.  
+I designed tickets to be used across all three campuses and had them printed at a local print-shop. Then, I worked with a younger student from Coding Club to quickly develop a website that could be used to verify that the tickets were valid, mark them as activated, and check whether they had already been used. This system worked so well, with an average of 2 seconds or less to check in each ticket (compared to 20 seconds previously), that it will be used across all three campuses in future years.  
+Languages: `HTML` `PHP` `CSS` `SQL`  
+Links:  
+
+* [Picture of tickets]({{site.url}}/assets/BDN_tickets.png)
+* [Picture of website]({{site.url}}/assets/BDN_website.png)
+* [Picture of database]({{site.url}}/assets/BDN_database.png)
+* [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
+
 #### **ManageBac grades extractor**
 
 A web scraping tool that extracts grades from [Managebac](https://cdn.managebac.com) and can analyse them in a dashboard window.  
@@ -80,14 +108,6 @@ Links: [MB Scraper](https://nationsdesign.org/projects/signin/MB_scraper/F/index
 #### **Coding Club**
 
 Since my school doesn't offer formal coding classes, I decided to start the Coding Club with two friends of mine. I recruited roughly 12 students and taught them the fundamentals of website building, including JS, HTML, and CSS. I also acted as a mentor for students in younger grades working on coding projects for school. 
-
-#### **MEAI (MemeEconomy Artificial Intelligence)**
-
-Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit](https://reddit.com) bot. Uses database logging, tensorflow, python reddit API (PRAW).  
-Languages: `Python`  
-Version control: `Git` | `Bitbucket`  
-Status: `in progress`  
-Links: [Homepage](https://meai.ml)  
 
 #### **School Social Media Directory**
 
@@ -131,18 +151,6 @@ Originally a simple programming exercise, this project is now so large that it i
 Languages: `Python`  
 Version control: `Git` | `BitBucket` | (Private)  
 
-#### **Custom event ticketing software**
-
-Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus's student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door.  
-I designed tickets to be used across all three campuses and had them printed at a local print-shop. Then, I worked with a younger student from Coding Club to quickly develop a website that could be used to verify that the tickets were valid, mark them as activated, and check whether they had already been used. This system worked so well, with an average of 2 seconds or less to check in each ticket (compared to 20 seconds previously), that it will be used across all three campuses in future years.  
-Languages: `HTML` `PHP` `CSS` `SQL`  
-Links:  
-
-* [Picture of tickets]({{site.url}}/assets/BDN_tickets.png)
-* [Picture of website]({{site.url}}/assets/BDN_website.png)
-* [Picture of database]({{site.url}}/assets/BDN_database.png)
-* [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
-
 ## Other projects
 
 #### **Drip Irrigation System**
@@ -160,6 +168,7 @@ Links:
 ## Programming Languages
 
 * Python  
+  * NumPy (extensive knowledge)
   * Tensorflow (limited experience)  
   * Tkinter for GUI creation  
   * PRAW Reddit API (extensive knowledge)  
@@ -256,5 +265,4 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
 
 * Big Science Competition Certificate of High Distinction (2016)
 
-### [Download CV]({{site.url}}/assets/CV2.pdf)
 <!-- bundle exec jekyll serve -->
