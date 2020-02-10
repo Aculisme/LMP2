@@ -12,3 +12,5 @@ title: You're probably looking for the Portfolio page
 ---
 
 [Hello.]({{site.url}}/about)
+
+<!-- bundle exec jekyll serve -->
