@@ -18,7 +18,7 @@ For my International Baccalaureate Extended Essay in Physics I chose to investig
 
 #### **Maths HL Internal Assessment: Numerical Methods**
 
-For my Maths Internal Assessment I wrote a paper exploring various numerical numerical methods and their applications in zero-finding and root-solving. I compared the Bisection method, Newton's method, and Secant method in terms of their rate & order of convergence and potential breakpoints. I also implemented the algorithms in Python and wrote a set of benchmarking scripts compare how long each took to converge on a known root.
+For my Maths Internal Assessment I wrote a paper exploring various numerical methods and their applications in zero-finding and root-solving. I compared the Bisection method, Newton's method, and Secant method in terms of their rate & order of convergence and potential breakpoints. I also implemented the algorithms in Python and wrote a set of benchmarking scripts compare how long each took to converge on a known root.
 Languages: `Python (Matplotlib, Numpy)`, `Git`  
 Status: `Pending review`  
 Links:
@@ -273,3 +273,10 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
 * Big Science Competition Certificate of High Distinction (2016)
 
 <!-- bundle exec jekyll serve -->
+
+## Personal
+
+#### **Languages**
+
+* English: Native proficiency
+* French: Native proficiency
