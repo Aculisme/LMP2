@@ -3,8 +3,8 @@ layout: page
 title: Portfolio
 permalink: /about/
 # remove once "/ is finished being developed
-# redirect_from:
-  # - /
+redirect_from:
+  - /
 ---
 
 
