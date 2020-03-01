@@ -13,7 +13,7 @@ permalink: /about/
 #### **Physics HL Extended Essay: Solar Optimization**
 
 For my International Baccalaureate Extended Essay in Physics I chose to investigate the optimum positioning of a solar panel located in Geneva Switzerland. My research question was: _"What is the optimal tilt angle of a fixed-position polycrystalline photovoltaic solar panel located in Geneva, Switzerland with respect to maximum annual energy generation?"_.  
-<!-- Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/EEV8.pdf)   -->
+Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/EEV8.pdf)  
 
 
 #### **Maths HL Internal Assessment: Numerical Methods**
@@ -22,13 +22,13 @@ For my Maths Internal Assessment I wrote a paper exploring various numerical met
 Languages: `Python (Matplotlib, Numpy)`, `Git`  
 Status: `Pending review`  
 Links:
-<!-- * [First draft (currently undergoing moderation)]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf) -->
+* [First draft (currently undergoing moderation)]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf)
 * [Github repo of scripts created](https://github.com/Aculisme/zero_algorithms)
 
 #### **Chemistry SL Internal Assessment: Iodination of Propanone Reaction**
 
 For my Chemistry Internal Assessment I experimentally determined the activation energy of the iodination of propanone reaction.  
-<!-- Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/Chem_IA_-_Luca_Mehl.pdf)   -->
+Links: [Final draft: (currently undergoing moderation)]({{site.url}}/assets/Chem_IA_-_Luca_Mehl.pdf)  
 
 #### **Network Analysis Version 14 (NV14)**
 
