@@ -4,9 +4,9 @@ title: Trips
 permalink: /trips/
 ---
 
-<details open>
+<details open markdown="1">
   
-<summary> #### Glecksteinhütte SAC 2317m / Chrinnenhorn 2737m (24.6.20/25.6.20) </summary>
+<summary markdown="1"> #### Glecksteinhütte SAC 2317m / Chrinnenhorn 2737m (24.6.20/25.6.20) </summary>
 
 A 2-day trip to Grindelwald's Glecksteinhütte, run by the Swiss Alpine Club (SAC). We took the Golden Pass train from Montreux to Interlaken West with Ahnaf Naoki and Anurag, then another split from the group and took a train from Interlaken Ost to Grindelwald. Finally, a bus took us to the trailhead at 1285m. We started walking at 15:00 (a full 6 hours since we set out), taking the T3 access trail around the base of the Byhorn and Chrinnenhorn, arriving at Glecksteinhütte at 18:30--exactly on time for dinner. We stayed there overnight, and set out the next day for the Chrinnenhorn summit--a considerably more challenging T4 trail. The path took us through several boulder fields and a snowdrift. We arrived at the 2737m summit at ~11:00, and enjoyed the view for just under an hour, before heading back down to Glecksteinhütte for Lunch. We then continued our way down, continuing past the bus stop and hiking all the way down to Grindelwald just in time for the 19:00 train. Completed with Ryoma.<br>
 Difficulty: T3 to the hut, T4 to the Chrinnenhorn summit.<br>
