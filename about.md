@@ -239,6 +239,20 @@ Links:
 
 1510 (770 English, 740 Maths)
 
+#### **IB DP Results**
+
+* Physics HL: 7/7
+* Geography HL: 7/7
+* Mathematics HL: 6/7
+* English SL: 6/7
+* French SL: 6/7
+* Chemistry SL: 7/7
+* Bonus points: 3/3
+  * Theory of Knowledge: A
+  * Extended Essay: B
+  
+*Final score:* 42/45. 
+Bilingual Diploma awarded. 
 #### **University of Waterloo**
 
 * Gauss Contest Certificate of Distinction
