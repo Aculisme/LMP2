@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: ""
+url: "lucamehl.netlify.app"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -12,7 +12,7 @@ baseurl: ""
 # baseurl: "/"
 
 # USING CURRENTLY FOR LOCAL TESTING:
-url: ""
+url: "lucamehl.netlify.app"
 baseurl: ""
 
 
@@ -209,7 +209,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
+  rooturl: '_posts' 
   media: 'img'
   ignore:
     - 404.html
