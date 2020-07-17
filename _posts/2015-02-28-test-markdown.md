@@ -1,7 +1,7 @@
 ---
 layout: post
 # title: Test markdown
-title: You're probably looking for the Portfolio page
+title: You're probably looking for the 'About' page
 # subtitle: Each post also has a subtitle
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

@@ -12,7 +12,7 @@ We took the Golden Pass train from Montreux to Interlaken West with Ahnaf Naoki 
 - **Difficulty**: **T3** to the hut, **T4** to the Chrinnenhorn summit.  
 - **Ascent**: 1032m from Grindelwald trailhead to hut, 420m from hut to Chrinnenhorn summit. **1452m** total.    
 - **Descent**: **-1737m** descent from summit to Grindelwald train station.  
-{% include image-gallery.html folder="/uploads/glecksteinhutte" %}
+{% include image-gallery.html folder="/uploads/trips/glecksteinhutte" %}
 <br>
 </details>
 
@@ -24,7 +24,7 @@ This trip was quite spontaneous, with the location decided upon at 15:00 the day
 - **Difficulty:** **T3**   
 - **Ascent:** 1416m from the Montreux train station (396m) to our campsite Sautodoz (1812m); 230m from Sautodoz to the Rochers de Naye summit, and later 173m up the Dent de Jaman (1875m). **1819m** total   
 - **Descent:** **-1819m**  
-{% include image-gallery.html folder="/uploads/rochersdenaye" %}
+{% include image-gallery.html folder="/uploads/trips/rochersdenaye" %}
 <br>
 </details>
 
@@ -36,7 +36,7 @@ The trailhead was located in the small town of Bourg-St-Pierre (1632m), and we s
 - **Difficulty:** **T2**   
 - **Ascent:** **1006m** from Bourg-St-Pierre (1632m) to the hut (2638m)  
 - **Descent:** **-1006m**    
-{% include image-gallery.html folder="/uploads/cabanedevelan" %}
+{% include image-gallery.html folder="/uploads/trips/cabanedevelan" %}
 <br>
 </details>
 
@@ -48,6 +48,6 @@ The walk to the hut was quite long, but not technically difficult. We started fr
 - **Difficulty:** **T2** to hut, **T4+** to highest hikable arête   
 - **Ascent:** 1106m from Zermatt (1588m) to the hut (2694m), 567m from the hut to the highest hikable arête (3261m). **1673** total.  
 - **Descent:** **-1673**  
-{% include image-gallery.html folder="/uploads/schonbielhutte" %}
+{% include image-gallery.html folder="/uploads/trips/schonbielhutte" %}
 <br>
 </details>
