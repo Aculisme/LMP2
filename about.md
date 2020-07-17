@@ -20,7 +20,6 @@ Links: [Full paper]({{site.url}}/assets/EEV8.pdf)
 
 For my Maths Internal Assessment I wrote a paper exploring various numerical methods and their applications in zero-finding and root-solving. I compared the Bisection method, Newton's method, and Secant method in terms of their rate & order of convergence and potential breakpoints. I also implemented the algorithms in Python and wrote a set of benchmarking scripts compare how long each took to converge on a known root.
 Languages: `Python (Matplotlib, Numpy)`, `Git`  
-Status: `Pending review`  
 Links:
 * [Full paper]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf)
 * [Github repo of scripts created](https://github.com/Aculisme/zero_algorithms)
