@@ -1,7 +1,7 @@
 ---
 layout: post
 # title: Test markdown
-title: You're probably looking for the 'About' page
+title: __
 # subtitle: Each post also has a subtitle
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
@@ -11,6 +11,6 @@ title: You're probably looking for the 'About' page
 
 ---
 
-[Hello.]({{site.url}}/about)
+[.]({{site.url}}/about)
 
 <!-- bundle exec jekyll serve -->

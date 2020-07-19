@@ -6,6 +6,8 @@ gem "github-pages", '193', group: :jekyll_plugins
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jekyll-paginate'
 
+# gem 'jekyll-analytics'
+
 group :jekyll_plugins do
     gem 'jekyll-commonmark'
 end

@@ -40,14 +40,7 @@ Links: [NV14](http://nv14.ga)
 
 A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).  
 Languages: `PHP` `SQL` `Git`  
-Gallery:
 {% include image-gallery.html folder="/uploads/projects/nv18" %}
-
-<!-- Links:  
-* [4196x4196 Black background]({{site.url}}/assets/nv18_pink.png)
-* [4196x4196 Grey background]({{site.url}}/assets/nv18_pink_white_bg_black_txt.png)
-* [4196x4196 No background, White text]({{site.url}}/assets/nv18_pink_nobg.png)
-* [4196x4196 No background, Black text]({{site.url}}/assets/nv18_pink_nobg_black_txt.png) -->
 <br>
 
 #### **Sign-in Project**
@@ -71,7 +64,8 @@ Links:
 * [Ski trip GPS recorded with PWDL](https://ski-week-2018.netlify.com)
   * [Google Earth visualization of GPS coordinates](https://drive.google.com/drive/u/0/folders/18qPdKE13OEDq5m5JjcpnLSmEQ4eEzc-F)
 * [Duke of Edinburgh's International Award silver level trip recorded with PWDL](https://ia-silver-route-2018.netlify.com)
-* [Photos of PWDL](https://imgur.com/a/p59KwQB)
+<!-- * [Photos of PWDL](https://imgur.com/a/p59KwQB) -->
+{% include image-gallery.html folder="/uploads/projects/pwdl" %}
 <br>
 
 #### **MEAI (MemeEconomy Artificial Intelligence)**
@@ -79,7 +73,6 @@ Links:
 Collaboration with 3 students (two from UK, 1 from Germany) to create a [Reddit](https://reddit.com) bot. Uses database logging, tensorflow, python reddit API (PRAW).  
 Languages: `Python`  
 Version control: `Git` | `Bitbucket`  
-Status: `in progress`  
 Links: [Homepage](https://meai.ml)
 <br>
 
@@ -93,11 +86,11 @@ Status: `in progress`
 Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus's student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door.  
 I designed tickets to be used across all three campuses and had them printed at a local print-shop. Then, I worked with a younger student from Coding Club to quickly develop a website that could be used to verify that the tickets were valid, mark them as activated, and check whether they had already been used. This system worked so well, with an average of 2 seconds or less to check in each ticket (compared to 20 seconds previously), that it will be used across all three campuses in future years.  
 Languages: `HTML` `PHP` `CSS` `SQL`  
-Links:  
-* [Picture of tickets]({{site.url}}/assets/BDN_tickets.png)
-* [Picture of website]({{site.url}}/assets/BDN_website.png)
-* [Picture of database]({{site.url}}/assets/BDN_database.png)
-* [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
+Links: [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
+{% include image-gallery.html folder="/uploads/projects/bdn" %}
+**UPDATE:** I went back and re-wrote the whole website, frontend and backend. The website is  hosted on my home web server and I also purchased 3 additional barcode scanners. The software + barcode scanners is now being rented to future Student Councils.
+Links: [NEW scanning page for organizers (password protected)](https://lmp.internet-box.ch/bdn)
+{% include image-gallery.html folder="/uploads/projects/bdn20" %}
 <br>
 
 #### **ManageBac grades extractor**
@@ -142,7 +135,7 @@ Links: [{{site.url}}]({{site.url}}/)
 #### **Reddit text generator**
 
 I built this toolkit on top of the fantastic TexGenRnn Python library, allowing for easier text generation training using inputs from the Reddit community.  
-[Work in Progress]  
+[unfinished]  
 Links: [github](https://github.com/aculisme/UNRG)  
 
 #### **ASCII converter bot**
@@ -150,7 +143,7 @@ Links: [github](https://github.com/aculisme/UNRG)
 Originally a simple programming exercise, this project is now so large that it is best described as two separate parts:
 
 1. An efficient and novel media converter from any video format into a gif/video created from only ASCII characters.
-2. A Reddit bot created using PRAW which can be 'summoned' to convert a video submission into its ASCII equivalent. [still in progress]  
+2. A Reddit bot created using PRAW which can be 'summoned' to convert a video submission into its ASCII equivalent. [unfinished]  
 Languages: `Python`  
 Version control: `Git` | `BitBucket` | (Private)  
 
@@ -162,6 +155,5 @@ Version control: `Git` | `BitBucket` | (Private)
 
 ## Upcoming Projects
 
-* Multithreaded Python bot for Reddit hosted on Raspberry Pi  
 * GUI, dashboard, and analysis for PWDL  
-* Python wrapper for Managebac  
+* Permanent weather station

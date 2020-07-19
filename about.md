@@ -56,11 +56,15 @@ Links:
 
 * BWSI [website](https://beaverworks.ll.mit.edu/CMS/bw/bwsi)
 * (Private) team [Github repo](https://github.com/bwsiuassar/Team-1)
-* [Imgur album](https://imgur.com/gallery/GVwI00W) of BWSI photos
+<!-- * [Imgur album](https://imgur.com/gallery/GVwI00W) of BWSI photos -->
+{% include image-gallery.html folder="/uploads/about/bwsi" %}
+<br>
 
 ---
 
 ## Academics
+
+### Competitions
 
 #### **Student Council**
 
@@ -81,6 +85,8 @@ Links:
   * Passed resolution concerning _The creation of an international moderating body for nation-level electoral processes_, with emphasis on preventing foreign electoral interference. [Full resolution]({{site.url}}/assets/UNITED_KINGDOM_RESOLUTION_2019_FINAL-2.pdf)
 * Representative of Hungary (2018)  
 * Representative of Mauritania (2017)  
+
+### Testing
 
 #### **SAT**
 
@@ -115,19 +121,22 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
 
 #### **Duke of Edinburgh's International Award**
 
-* **Bronze level recipient**
+* **Bronze level**
   * Website development: 15h
   * Badminton: 26h
   * Coaching/teaching: 15h
-* **Silver level recipient**
+  * {% include image-gallery.html folder="/uploads/about/iabronze" %}
+* **Silver level**
   * Programming: 26h
   * Badminton: 26h
   * Tournament organization: 26h
-* **Gold level (in progress)**
+  * {% include image-gallery.html folder="/uploads/about/iasilver" %}
+* **Gold level**
   * 6-person team leader
   * Data visualization: 52h
   * Badminton: 52h
   * Student council: 52h
+  * {% include image-gallery.html folder="/uploads/about/iagold" %}
 <!-- Add images! -->
 #### **Other**
 
