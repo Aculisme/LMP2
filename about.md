@@ -125,18 +125,18 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
   * Website development: 15h
   * Badminton: 26h
   * Coaching/teaching: 15h
-  * {% include image-gallery.html folder="/uploads/about/iabronze" %}
+{% include image-gallery.html folder="/uploads/about/iabronze" %}
 * **Silver level**
   * Programming: 26h
   * Badminton: 26h
   * Tournament organization: 26h
-  * {% include image-gallery.html folder="/uploads/about/iasilver" %}
+{% include image-gallery.html folder="/uploads/about/iasilver" %}
 * **Gold level**
   * 6-person team leader
   * Data visualization: 52h
   * Badminton: 52h
   * Student council: 52h
-  * {% include image-gallery.html folder="/uploads/about/iagold" %}
+{% include image-gallery.html folder="/uploads/about/iagold" %}
 <!-- Add images! -->
 #### **Other**
 
