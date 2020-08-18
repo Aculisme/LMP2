@@ -12,7 +12,6 @@ permalink: /projects/
 #### **Physics HL Extended Essay: Solar Optimization**
 
 For my International Baccalaureate Extended Essay in Physics I chose to investigate the optimum positioning of a solar panel located in Geneva Switzerland. My research question was: _"What is the optimal tilt angle of a fixed-position polycrystalline photovoltaic solar panel located in Geneva, Switzerland with respect to maximum annual energy generation?"_.  
-<!-- Links: [Full paper]({{site.url}}/assets/EEV8.pdf) -->
 Links: [Full paper](/assets/EEV8.pdf)
 <br>
 
@@ -21,14 +20,14 @@ Links: [Full paper](/assets/EEV8.pdf)
 For my Maths Internal Assessment I wrote a paper exploring various numerical methods and their applications in zero-finding and root-solving. I compared the Bisection method, Newton's method, and Secant method in terms of their rate & order of convergence and potential breakpoints. I also implemented the algorithms in Python and wrote a set of benchmarking scripts compare how long each took to converge on a known root.
 Languages: `Python (Matplotlib, Numpy)`, `Git`  
 Links:
-* [Full paper]({{site.url}}/assets/Maths_IA_Luca_Mehl.pdf)
+* [Full paper](/assets/Maths_IA_Luca_Mehl.pdf)
 * [Github repo of scripts created](https://github.com/Aculisme/zero_algorithms)  
 <br>
 
 #### **Chemistry SL Internal Assessment: Iodination of Propanone Reaction**
 
 For my Chemistry Internal Assessment I experimentally determined the activation energy of the iodination of propanone reaction.  
-Links: [Full paper]({{site.url}}/assets/Chem_IA_-_Luca_Mehl.pdf)
+Links: [Full paper](/assets/Chem_IA_-_Luca_Mehl.pdf)
 <br>
 
 ---
@@ -121,7 +120,7 @@ Status: `on hold`
 Links:  
 
 * [Social Media Directory](http://nv15.ga)
-* [Screen shots]({{site.url}}/assets/social_media_directory_landing_page.png)
+* [Screen shots](/assets/social_media_directory_landing_page.png)
 
 #### **Reddit image extractor script**
 
@@ -137,7 +136,7 @@ This website is hosted by Netlify (formerly Bitballoon), deployed from [Github](
 Languages: `Git` `Markdown`  
 Version control: `Git` | `Github`  
 Status: `regularly updated`  
-Links: [{{site.url}}]({{site.url}}/)  
+Links: [](/)  
 
 #### **Reddit text generator**
 

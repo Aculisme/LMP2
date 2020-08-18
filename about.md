@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### [Download CV]({{site.url}}/assets/CV2.pdf)  
+### [Download CV](/assets/CV2.pdf)  
 
 ## Academics
 
@@ -86,7 +86,7 @@ Links:
 #### **Students' League of Nations**
 
 * Representative of the United Kingdom (2019)
-  * Passed resolution concerning _The creation of an international moderating body for nation-level electoral processes_, with emphasis on preventing foreign electoral interference. [Full resolution]({{site.url}}/assets/UNITED_KINGDOM_RESOLUTION_2019_FINAL-2.pdf)
+  * Passed resolution concerning _The creation of an international moderating body for nation-level electoral processes_, with emphasis on preventing foreign electoral interference. [Full resolution](/assets/UNITED_KINGDOM_RESOLUTION_2019_FINAL-2.pdf)
 * Representative of Hungary (2018)  
 * Representative of Mauritania (2017)  
 
