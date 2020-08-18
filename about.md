@@ -19,19 +19,14 @@ redirect_from:
 1510 (770 English, 740 Maths)
 
 #### **IB DP Results**
-
-* Physics HL: 7/7
-* Geography HL: 7/7
-* Mathematics HL: 6/7
-* English SL: 6/7
-* French SL: 6/7
-* Chemistry SL: 7/7
-* Bonus points: 3/3
-  * Theory of Knowledge: A
-  * Extended Essay: B
-  
-**Final score:** 42/45. 
-Bilingual Diploma awarded. 
+Received 44/45 with French bilingual diploma.  
+Higher Level Mathematics: 7/7  
+Higher Level Physics: 7/7  
+Higher Level Geography: 7/7  
+Standard Level Chemistry: 7/7  
+Standard Level English: 7/7  
+Standard Level French: 6/7  
+Extended Essay in Physics: "Maximizing the energy production of a fixed-position solar panel", B  
 
 ### Competitions
 
