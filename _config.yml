@@ -13,7 +13,7 @@
 
 # USING CURRENTLY FOR LOCAL TESTING:
 url: "lucamehl.netlify.app"
-baseurl: "/"
+baseurl: "lucamehl.netlify.app/"
 
 
 # Of course don't forget to change the username and projectname to YOUR username and project
