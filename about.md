@@ -5,6 +5,7 @@ permalink: /about/
 # remove once "/ is finished being developed
 redirect_from:
   - /
+  - /index.html
 ---
 
 
