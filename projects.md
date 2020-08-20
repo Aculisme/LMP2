@@ -7,6 +7,9 @@ permalink: /projects/
 #   - /
 ---
 
+*[Papers](#papers)* / 
+*[Projects](#projects)*  
+
 ## Papers
 
 #### **Extended Essay in Physics: Solar Optimization**
