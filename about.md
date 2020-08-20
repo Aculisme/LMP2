@@ -11,6 +11,10 @@ redirect_from:
 
 ### [Download CV](/assets/CV2.pdf)  
 
+## Personal
+
+My name is Luca.
+
 ## Academics
 
 ### Testing

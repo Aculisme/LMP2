@@ -119,36 +119,23 @@ Since my school doesn't offer formal coding classes, I decided to start the Codi
 
 #### **School Social Media Directory**
 
-Summer coding project  
-Languages: `CSS` `HTML` `SCSS` `JS`  
-Version control: `Git` | `Bitbucket`  
-Status: `on hold`  
+Summer coding project to make a directory of all the new (and old) students in the grade.  
+Languages: `HTML` `SCSS` `JS`  
 Links:  
 
-* [Social Media Directory](http://nv15.ga)
+* [Social Media Directory](https://nationsdesign.org/projects/nv15/directory.php?year=12)
 * [Screen shots](/assets/social_media_directory_landing_page.png)
 
 #### **Reddit image extractor script**
 
 An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.  
 Languages: `Python`  
-Version control: `Git` | `Github`  
-Status: `on hold`  
 Links: [reddit image scraper](https://github.com/aculisme/reddit-image-scraper)  
 
 #### **Portfolio website**  
 
-This website is hosted by Netlify (formerly Bitballoon), deployed from [Github](https://github.com/Aculisme/LMP), and created using the [Jekyll](https://jekyllrb.com) static website generator.
-Languages: `Git` `Markdown`  
-Version control: `Git` | `Github`  
-Status: `regularly updated`  
-Links: [](/)  
-
-#### **Reddit text generator**
-
-I built this toolkit on top of the fantastic TexGenRnn Python library, allowing for easier text generation training using inputs from the Reddit community.  
-[unfinished]  
-Links: [github](https://github.com/aculisme/UNRG)  
+This website is hosted by Netlify, deployed from [Github](https://github.com/Aculisme/LMP) using Docker, and created using the [Jekyll](https://jekyllrb.com) static website generator.
+Languages: `Git` `Markdown` `html/css`  
 
 #### **ASCII converter bot**
 
@@ -157,13 +144,10 @@ Originally a simple programming exercise, this project is now so large that it i
 1. An efficient and novel media converter from any video format into a gif/video created from only ASCII characters.
 2. A Reddit bot created using PRAW which can be 'summoned' to convert a video submission into its ASCII equivalent. [unfinished]  
 Languages: `Python`  
-Version control: `Git` | `BitBucket` | (Private)  
 
 ## Other projects
 
 #### **Drip Irrigation System**
-
-#### **Portable Speaker**
 
 ## Upcoming Projects
 
