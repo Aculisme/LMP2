@@ -17,12 +17,6 @@ redirect_from:
 
 ## Experiences / Extracurriculars
 
-#### Hackathons
-
-* Versusvirus hackathon
-
-## CS Experiences
-
 #### **CERN Internship**
 
 I conducted a week-long internship at CERN with the web development and app development teams.  
@@ -43,6 +37,10 @@ Links:
 <!-- * [Imgur album](https://imgur.com/gallery/GVwI00W) of BWSI photos -->
 {% include image-gallery.html folder="/uploads/about/bwsi" %}
 <br>
+
+#### *Versusvirus* Hackathon
+
+I competed in a hackathon aiming to combat the spread and effects of SARS-CoV-2. My 2 friends and I carried out a Switzerland-centric analysis of the effects of air pollution on the spread and severity of the virus, producing a written report of our findings. The [Hackathon page](https://devpost.com/software/challenge-187-covid19-and-air-pollution?ref_content=user-portfolio&ref_feature=in_progress) is available on Devpost, as is the [written report](/assets/VersusVirus_Air_pollution_V1.pdf).  
 
 #### **Students' League of Nations**
 
