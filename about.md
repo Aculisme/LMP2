@@ -11,48 +11,9 @@ redirect_from:
 
 ### [Download CV](/assets/CV2.pdf)  
 
-## Personal
-
-My name is Luca.
-
-## Academics
-
-### Testing
-
-#### **SAT**
-
-1510 (770 English, 740 Maths)
-
-#### **IB DP Results**
-Received 44/45 with French bilingual diploma.  
-Higher Level Mathematics: 7/7  
-Higher Level Physics: 7/7  
-Higher Level Geography: 7/7  
-Standard Level Chemistry: 7/7  
-Standard Level English: 7/7  
-Standard Level French: 6/7  
-Extended Essay in Physics: "Maximizing the energy production of a fixed-position solar panel", B  
-
-### Competitions
-
-#### **World Scholar's Cup**
-
-* Top team in Switzerland (2016, 2017)  
-* Top team in Europe (2015, 2016)  
-* 8th Place Globally (2016)  
-* Tournament of Champions at Yale University (2017)
-
-#### **STEM competitions**
-
-* Gauss Contest Certificate of Distinction
-* Pascal Contest Certificate of Distinction
-* Hypatia Contest Certificate of Distinction (2018)
-* Big Science Competition Certificate of High Distinction (2016)
-* Beaver Computing Challenge Certificate of Distinction (2017)  
-* Beaver Computing Challenge Certificate of Distinction (2018)  
-* **Euclid Competition 1st in year group, school medal recipient (2019)**
-
----
+*[Experiences/Extracurriculars](#experiences--extracurriculars)* / 
+*[Academics](#academics)* / 
+*[Proficiencies](#proficiencies)*
 
 ## Experiences / Extracurriculars
 
@@ -122,7 +83,46 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
 
 ---
 
-## Personal
+## Academics
+
+### Testing
+
+#### **SAT**
+
+1510 (770 English, 740 Maths)
+
+#### **IB DP Results**
+Received 44/45 with French bilingual diploma.  
+Higher Level Mathematics: 7/7  
+Higher Level Physics: 7/7  
+Higher Level Geography: 7/7  
+Standard Level Chemistry: 7/7  
+Standard Level English: 7/7  
+Standard Level French: 6/7  
+Extended Essay in Physics: "Maximizing the energy production of a fixed-position solar panel", B  
+
+### Competitions
+
+#### **World Scholar's Cup**
+
+* Top team in Switzerland (2016, 2017)  
+* Top team in Europe (2015, 2016)  
+* 8th Place Globally (2016)  
+* Tournament of Champions at Yale University (2017)
+
+#### **STEM competitions**
+
+* Gauss Contest Certificate of Distinction
+* Pascal Contest Certificate of Distinction
+* Hypatia Contest Certificate of Distinction (2018)
+* Big Science Competition Certificate of High Distinction (2016)
+* Beaver Computing Challenge Certificate of Distinction (2017)  
+* Beaver Computing Challenge Certificate of Distinction (2018)  
+* **Euclid Competition 1st in year group, school medal recipient (2019)**
+
+---
+
+## Proficiencies
 
 #### **Languages**
 

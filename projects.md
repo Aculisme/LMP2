@@ -44,8 +44,7 @@ Links: [Full paper](/assets/Chem_IA_-_Luca_Mehl.pdf)
 
 A project attempting to accurately visualize social structures within my year group. The only input is 'friendships' according to a poll conducted by 5 students in my year group. Nodes inputted into [Gephi](https://gephi.org), modelled with Yifan Hu Proportional model, and converted to website format with help from a Gephi plugin.  
 Languages: `JavaScript` `Java` `SQL`  
-Status: `completed`  
-Links: [NV14](http://nv14.ga)
+Links: [NV14](https://nv14.netlify.app)
 <br>
 
 #### **Network Analysis Version 18 (NV18)**
@@ -61,7 +60,6 @@ A 6-month project to develop a late-slip dispenser and software, created in resp
 With the new system, students scanned their ID card with a barcode scanner, would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
 Despite a complete working product, the school was unable to give access to the student database. The project ended up acting as a proof-of-concept, and subsequently a catalyst for the school to contract a company to install a fully-fledged sign-in system with sliding doors and RFID.  
 Languages: `CSS` `HTML` `PHP`  
-Status: `completed`  
 Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | [Directory](https://nationsdesign.org/projects/signin/search.html) | [Sign-in page (password protected)](https://nationsdesign.org/projects/signin/protected/signin.html)
 <br>
 
@@ -70,7 +68,6 @@ Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | [D
 This project was completed for my Personal Project (International Baccalaureate), and inspired by my uncle & aunt, a climate scientist & wildlife biologist, who perform dozens of measurements every hour on their research trips in the Peruvian Andes. My Weather Logger is designed to save them time while they focus on their field activities, being able to record the many different atmospheric conditions, log them in a human-readable document, map them (with GPS) perpetually, and with minimal input from the users.
 Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, external water temperature probe.  
 Languages: `C++`  
-Status: `completed`  
 Links:  
 
 * [Ski trip GPS recorded with PWDL](https://ski-week-2018.netlify.com)
@@ -91,7 +88,6 @@ Links: [Homepage](https://meai.ml)
 #### **Raspberry Pi Home Server**
 <!-- TODO: REPLACE THIS PROJECT WITH THE PIHOLE / WEBSITE HOST -->
 A Raspberri-pi -based home server running Ubuntu Server, which can be controlled using SSH/SFTP on the LAN *or* externally, via portforwarding. 
-Status: `in progress`  
 
 #### **Custom event ticketing software**
 
@@ -110,7 +106,6 @@ Links: [NEW scanning page for organizers (password protected)](https://lmp.inter
 A web scraping tool that extracts grades from [Managebac](https://cdn.managebac.com) and can analyse them in a dashboard window.  
 Languages: `PHP`  
 Version control: `Git` | `Bitbucket`  
-Status: `deprecated`  
 Links: [MB Scraper](https://nationsdesign.org/projects/signin/MB_scraper/F/index.html)
 
 #### **Coding Club**
