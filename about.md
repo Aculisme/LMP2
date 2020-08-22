@@ -2,17 +2,16 @@
 layout: page
 title: About
 permalink: /about/
-# remove once "/ is finished being developed
 redirect_from:
   - /
   - /index.html
 ---
 
 
-### [Download CV](/assets/CV2.pdf)  
+### [Download CV](/assets/Luca Mehl Resume (22.08.20).pdf)  
 
-*[Experiences/Extracurriculars](#experiences--extracurriculars)* / 
-*[Academics](#academics)* / 
+*[Experiences/Extracurriculars](#experiences--extracurriculars)* | 
+*[Academics](#academics)* | 
 *[Proficiencies](#proficiencies)*
 
 ## Experiences / Extracurriculars
@@ -49,15 +48,21 @@ I competed in a hackathon aiming to combat the spread and effects of SARS-CoV-2.
 * Representative of Hungary (2018)  
 * Representative of Mauritania (2017)  
 
+<br>
+
 #### **Student Council**
 
 * I was elected to be one of 6 members of the student council (STUCO).
 * Went to the annual BETT Technology In Education conference in London as one of four representatives for my school.
 * I operated as technology head / treasurer for the student council, and launched the STUCO 2018/2019 [Progress Board]("https://trello.com/b/0gDNpCZ0/stuco-progress-board-2019").  
 
+<br>
+
 #### **mHealth in Bangladesh**
 
 I joined an mHealth project in Bangladesh over a three week period under the supervision of Dr. Alain Labrique. I had the great experience of spending time with the coders at mPower in Dhaka, and then working with the rural JiVitA mobile health field project in Gaibandha. I primarily worked on developing video instructions for health workers on using mobile devices connected to the mPower medical registry system.
+
+<br>
 
 #### **Duke of Edinburgh's International Award**
 
@@ -85,10 +90,6 @@ I joined an mHealth project in Bangladesh over a three week period under the sup
 
 ### Testing
 
-#### **SAT**
-
-1510 (770 English, 740 Maths)
-
 #### **IB DP Results**
 Received 44/45 with French bilingual diploma.  
 Higher Level Mathematics: 7/7  
@@ -98,6 +99,10 @@ Standard Level Chemistry: 7/7
 Standard Level English: 7/7  
 Standard Level French: 6/7  
 Extended Essay in Physics: "Maximizing the energy production of a fixed-position solar panel", B  
+
+#### **SAT**
+
+1510 (770 English, 740 Maths)
 
 ### Competitions
 
