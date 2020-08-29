@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### [Download CV](/assets/Luca Mehl Resume (22.08.20).pdf)  
+### [View CV](/assets/Luca Mehl Resume (22.08.20).pdf)  
 
 *[Experiences/Extracurriculars](#experiences--extracurriculars)* | 
 *[Academics](#academics)* | 
