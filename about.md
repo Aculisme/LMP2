@@ -7,9 +7,14 @@ permalink: /about/
 
 ### [View CV](/assets/Luca Mehl Resume (22.08.20).pdf)  
 
+Jump to: *[About me](#about-me)* | 
 *[Experiences/Extracurriculars](#experiences--extracurriculars)* | 
 *[Academics](#academics)* | 
 *[Proficiencies](#proficiencies)*
+
+## About me
+
+My name is Luca Mehl, and I am a Swiss/American computer science BSc student at Imperial College London (UK).
 
 ## Experiences / Extracurriculars
 
@@ -125,29 +130,24 @@ Extended Essay in Physics: "Maximizing the energy production of a fixed-position
 * English: Native proficiency
 * French: Native proficiency
 
-## Programming Languages
+#### **Programming Languages** (+ to +++)
 
-* Python  
-  * NumPy (extensive knowledge)
-  * Tensorflow (limited experience)  
-  * Tkinter for GUI creation  
-  * PRAW Reddit API (extensive knowledge)  
-  * RClone (intermediate knowledge)
-  * TextGenRNN (Recurrent Neural Network for text generation)
-  * Finished 'Python Like You Mean It'
-* Git  
-* PHP  
-* HTML/CSS/JS  
-  * Jekyll website builder
-* SQL/PHPMyAdmin  
-  * Database creation and maintenance (significant experience)  
-    * MySql  
-* Unix terminal and Command line (intermediate knowledge)
+* **Python**: +++
+  * NumPy ++ / Tensorflow + / Tkinter ++ / PRAW Reddit API +++
+  * Completed 'Python Like You Mean It'
+* **Git** ++ 
+* **PHP** ++  
+* **HTML/CSS/JS** ++  
+  * **Jekyll website builder** ++
+* **SQL/PHPMyAdmin** ++  
+  * Database creation and maintenance ++
+    * MySql ++  
+* Unix command line & bash +++
 
-## Other Knowledge
+## Other Proficiencies
 
-* Significant 3D modelling software experience (Fusion 360)
-* Soldering and general electronics
-* Significant experience with assembling and programming Arduino
-* Network modelling software (Gephi)
-* Highly capable in Google Spreadsheets/Microsoft Excel formula creation  
+* 3D modelling / CAD (Fusion 360, 2D Design) +++
+* Soldering and general electronics ++
+* Assembling and programming Arduino ++
+* Network modelling (Gephi) +
+* Google Spreadsheets/Microsoft Excel formula creation ++  
