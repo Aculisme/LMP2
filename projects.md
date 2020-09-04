@@ -59,34 +59,6 @@ Links: [Full paper](/assets/Chem_IA_-_Luca_Mehl.pdf)
   {% endfor %}
 </ul>
 
-#### **School Social Media Directory**
-
-Summer coding project to make a directory of all the new (and old) students in the grade.  
-Languages: `HTML` `SCSS` `JS`  
-Links:  
-
-* [Social Media Directory](https://nationsdesign.org/projects/nv15/directory.php?year=12)
-* [Screen shots](/assets/social_media_directory_landing_page.png)
-
-#### **Reddit image extractor script**
-
-An image scraper for Reddit that extracts up to 1000 images from a target subreddit and stores them in a local folder.  
-Languages: `Python`  
-Links: [reddit image scraper](https://github.com/aculisme/reddit-image-scraper)  
-
-#### **Portfolio website**  
-
-This website is hosted by Netlify, deployed from [Github](https://github.com/Aculisme/LMP) using Docker, and created using the [Jekyll](https://jekyllrb.com) static website generator.
-Languages: `Git` `Markdown` `html/css`  
-
-#### **ASCII converter bot**
-
-Originally a simple programming exercise, this project is now so large that it is best described as two separate parts:
-
-1. An efficient and novel media converter from any video format into a gif/video created from only ASCII characters.
-2. A Reddit bot created using PRAW which can be 'summoned' to convert a video submission into its ASCII equivalent. [unfinished]  
-Languages: `Python`  
-
 ## Upcoming Projects
 
 * GUI, dashboard, and analysis for PWDL  
