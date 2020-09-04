@@ -9,13 +9,13 @@ permalink: /projects/
 
 ## Papers
 
-#### **Extended Essay in Physics: Solar Optimization**
+#### **★ Extended Essay in Physics: Solar Optimization**
 
 For my IB Extended Essay in Physics I chose to investigate the optimum positioning of a solar panel. My research question was: _"What is the optimal tilt angle of a fixed-position polycrystalline photovoltaic solar panel located in Geneva, Switzerland with respect to maximum annual energy generation?"_.  
 Links: [Full paper](/assets/EEV8.pdf)
 <br>
 
-#### **Higher Level Maths Internal Assessment: Numerical Methods**
+#### **★ Higher Level Maths Internal Assessment: Numerical Methods**
 
 For my Maths IA (Internal Assessment) I wrote a paper exploring three common numerical methods and their applications, as well a theoretical investigation and empirical benchmarking of their efficiencies.<!-- in zero-finding and root-solving.--> <!-- I compared the Bisection method, Newton's method, and Secant method in terms of their rate & order of convergence and potential breakpoints. I also implemented the algorithms in Python and wrote a set of benchmarking scripts compare how long each took to converge on a known root. -->
 Links:
@@ -23,7 +23,7 @@ Links:
 * [Github repo of scripts created](https://github.com/Aculisme/zero_algorithms)  
 <br>
 
-#### **Higher Level Physics Internal Assessment: Solar Internal Resistance**
+#### **★ Higher Level Physics Internal Assessment: Solar Internal Resistance**
 
 This Physics IA paper explored the effect of irradiance on the internal resistance of a photovoltaic cell.
 Links:
@@ -47,14 +47,14 @@ Languages: `JavaScript` `Java` `SQL`
 Links: [NV14](https://nv14.netlify.app)
 <br>
 
-#### **Network Analysis Version 18 (NV18)**
+#### **★ Network Analysis Version 18 (NV18)**
 
 A follow-up project of NV14, featuring updated friendships (accurate in Oct 2018) from a larger pool (100 students) and a more efficient edge generation methodology. Made with Gephi, modelled with Force Atlas 2, and available as downloadable images (currently).  
 Languages: `PHP` `SQL` `Git`  
 {% include image-gallery.html folder="/uploads/projects/nv18" %}
 <br>
 
-#### **Sign-in Project**
+#### **★ Sign-in Project**
 
 A 6-month project to develop a late-slip dispenser and software, created in response to students' frustration with the previous late arrivals sign-in system, which required them to wait on line to fill out a slip of paper, making them even later for class.  
 With the new system, students scanned their ID card with a barcode scanner, would be registered as late on a database, and a receipt printer would print a late-slip for them to bring to their teacher.
@@ -63,7 +63,7 @@ Languages: `CSS` `HTML` `PHP`
 Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | [Directory](https://nationsdesign.org/projects/signin/search.html) | [Sign-in page (password protected)](https://nationsdesign.org/projects/signin/protected/signin.html)
 <br>
 
-#### **Portable Weather Data Logger (PWDL)**
+#### **★ Portable Weather Data Logger (PWDL)**
 
 This project was completed for my Personal Project (International Baccalaureate), and inspired by my uncle & aunt, a climate scientist & wildlife biologist, who perform dozens of measurements every hour on their research trips in the Peruvian Andes. My Weather Logger is designed to save them time while they focus on their field activities, being able to record the many different atmospheric conditions, log them in a human-readable document, map them (with GPS) perpetually, and with minimal input from the users.
 Equipped with: GPS, barometer, altimeter, hygrometer, thermometer, UV sensor, external water temperature probe.  
@@ -87,9 +87,9 @@ Links: [Homepage](https://meai.ml)
 
 #### **Raspberry Pi Home Server**
 <!-- TODO: REPLACE THIS PROJECT WITH THE PIHOLE / WEBSITE HOST -->
-A Raspberri-pi -based home server running Ubuntu Server, which can be controlled using SSH/SFTP on the LAN *or* externally, via portforwarding. 
+A Raspberri-pi -based web server running Ubuntu Server, which can be controlled using SSH/SFTP on the LAN or externally, via portforwarding. Hosting [lsm.internet-box.ch](https://lsm.internet-box.ch)
 
-#### **Custom event ticketing software**
+#### **★ Custom event ticketing software**
 
 Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus's student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door.  
 I designed tickets to be used across all three campuses and had them printed at a local print-shop. Then, I worked with a younger student from Coding Club to quickly develop a website that could be used to verify that the tickets were valid, mark them as activated, and check whether they had already been used. This system worked so well, with an average of 2 seconds or less to check in each ticket (compared to 20 seconds previously), that it will be used across all three campuses in future years.  
@@ -97,7 +97,7 @@ Languages: `HTML` `PHP` `CSS` `SQL`
 Links: [Check-in page for organizers (password protected)](https://nationsdesign.org/projects/bdn/test/index.php)
 {% include image-gallery.html folder="/uploads/projects/bdn" %}
 **UPDATE:** I went back and re-wrote the whole website, frontend and backend. The website is  hosted on my home web server and I also purchased 3 additional barcode scanners. The software + barcode scanners is now being rented to future Student Councils.
-Links: [NEW scanning page for organizers (password protected)](https://lmp.internet-box.ch/bdn)
+Links: [NEW scanning page for organizers (password protected)](https://lsm.internet-box.ch/bdn)
 {% include image-gallery.html folder="/uploads/projects/bdn20" %}
 <br>
 
