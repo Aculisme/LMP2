@@ -54,7 +54,7 @@ Links: [Full paper](/assets/Chem_IA_-_Luca_Mehl.pdf)
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      _{{ post.excerpt }}_
     </li>
   {% endfor %}
 </ul>
