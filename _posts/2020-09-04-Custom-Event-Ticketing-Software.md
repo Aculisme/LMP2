@@ -5,6 +5,9 @@ date: '2018-05-29 13:25:00 -0400'
 # categories: projects
 ---
 
+Brief: _I developed a full-stack event ticketing website, allowing organizers to scan ticket barcodes in order to mark attendence and prevent forgery. This software was successfullt implemented at an 800-guest event, and is being rented out for future installations of the event._  
+<!--more-->
+
 Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus's student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door.  
 I designed tickets to be used across all three campuses and had them printed at a local print-shop. Then, I worked with a younger student from Coding Club to quickly develop a website that could be used to verify that the tickets were valid, mark them as activated, and check whether they had already been used. This system worked so well, with an average of 2 seconds or less to check in each ticket (compared to 20 seconds previously), that it will be used across all three campuses in future years.  
 Languages: `HTML` `PHP` `CSS` `SQL`  
