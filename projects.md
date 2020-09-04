@@ -39,7 +39,7 @@ Links: [Full paper](/assets/Chem_IA_-_Luca_Mehl.pdf)
 ---
 
 ## Projects
-{% for category in site.categories %}
+<!-- {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
@@ -49,7 +49,15 @@ Links: [Full paper](/assets/Chem_IA_-_Luca_Mehl.pdf)
       </li>
     {% endfor %}
   </ul>
-{% endfor %}
+{% endfor %} -->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 #### **School Social Media Directory**
 
