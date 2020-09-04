@@ -65,7 +65,15 @@ Links: [Landing page](https://nationsdesign.org/projects/signin/index.html) | [D
 
 #### **★ Portable Weather Data Logger (PWDL)**
 
-{{ 2020-09-04-portable-weather-data-logger-pwdl.excerpt }}
+<!-- {{ 2020-09-04-portable-weather-data-logger-pwdl.excerpt }} -->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 #### **MEAI (MemeEconomy Artificial Intelligence)**
 
