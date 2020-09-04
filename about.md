@@ -45,15 +45,11 @@ I competed in a hackathon aiming to combat the spread and effects of SARS-CoV-2.
 * Representative of Hungary (2018)  
 * Representative of Mauritania (2017)  
 
-<br>
-
 #### **Student Council**
 
 * I was elected to be one of 6 members of the student council (STUCO).
 * Went to the annual BETT Technology In Education conference in London as one of four representatives for my school.
 * I operated as technology head / treasurer for the student council, and launched the STUCO 2018/2019 [Progress Board]("https://trello.com/b/0gDNpCZ0/stuco-progress-board-2019").  
-
-<br>
 
 #### **mHealth in Bangladesh**
 
