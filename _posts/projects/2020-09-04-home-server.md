@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Raspberry Pi Home Server'
+title: '★ Raspberry Pi Home Server'
 date: '2018-05-29 13:25:00 -0400'
 # categories: projects
 ---

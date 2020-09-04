@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Custom event ticketing software'
+title: '★ Custom event ticketing software'
 date: '2018-05-29 13:25:00 -0400'
 # categories: projects
 ---

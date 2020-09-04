@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sign-in Project'
+title: '★ Sign-in Project'
 date: '2018-05-29 13:25:00 -0400'
 # categories: projects
 ---

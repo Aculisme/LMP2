@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portable Weather Data Logger
+title: ★ Portable Weather Data Logger
 date: '2018-05-29 13:25:00 -0400'
 # categories: projects
 excerpt_separator: <!--more-->

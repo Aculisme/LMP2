@@ -50,14 +50,10 @@ Links: [Full paper](/assets/Chem_IA_-_Luca_Mehl.pdf)
     {% endfor %}
   </ul>
 {% endfor %} -->
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      _{{ post.excerpt }}_
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+<b><a href="{{ post.url }}">{{ post.title }}</a></b>
+{{ post.excerpt }}
+{% endfor %}
 
 ## Upcoming Projects
 
