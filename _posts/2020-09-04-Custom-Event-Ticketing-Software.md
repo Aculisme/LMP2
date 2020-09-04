@@ -3,7 +3,6 @@ layout: post
 title: 'Custom event ticketing software'
 date: '2016-05-29 13:25:00 -0400'
 categories: projects
-permalink: /Custom-Event-Ticketing-Software/
 ---
 
 Every year my school meets with the other two campuses to participate in (and organize) the Bal des Neiges, a winter ball. Every year it attracts 400+ students to each of the two nights (Juniors and Seniors). As part of the Student Council, I was among those responsible for organizing this event. And as the most tech-savvy among our campus's student council (to the best of my knowledge), I was tasked with developing a solution to ticketing at the door.  
