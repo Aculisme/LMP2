@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-### [View CV](/assets/Luca Mehl Resume (22.08.20).pdf)  
+### [View CV](/assets/Luca Mehl CV 22.12.2021.pdf)  
 
 Jump to: *[About me](#about-me)* | 
 *[Experiences/Extracurriculars](#experiences--extracurriculars)* | 
@@ -14,7 +14,7 @@ Jump to: *[About me](#about-me)* |
 
 ## About me
 
-My name is Luca Mehl, and I am a Swiss/American computer science BSc student at Imperial College London (UK).
+My name is Luca Mehl and I am a Swiss/American computer science BSc student at Imperial College London (UK).
 
 ## Experiences / Extracurriculars
 
