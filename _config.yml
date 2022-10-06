@@ -22,7 +22,7 @@ url: https://lucamehl.netlify.app
 title: Luca Mehl
 
 # Short description of your site
-description: © 2020 Luca Mehl
+description: Luca Mehl's Website
 
 # --- Navigation bar options --- #
 
@@ -30,7 +30,8 @@ description: © 2020 Luca Mehl
 navbar-links:
   About: "about"
   Projects: "projects"
-  Trips: "trips"
+  Resume: "assets/Luca_Mehl_CV_22.09.2022_General.pdf"
+#  Trips: "trips"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
@@ -142,15 +143,15 @@ gtag: "UA-106138589-4"
 # fb_comment_id: ""
 
 # Staticman support
-staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
-  reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL)
-    # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+#  reCaptcha:
+#    # reCaptcha for Staticman (OPTIONAL)
+#    # If you use reCaptcha, you must also set these parameters in staticman.yml
+#    siteKey  : # Use your own site key, you need to apply for one on Google
+#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
@@ -171,6 +172,9 @@ title-separator: "-"
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
+  extensions: ["strikethrough", "autolink", "table"]
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5

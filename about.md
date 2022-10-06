@@ -6,11 +6,7 @@ permalink: /about/
 
 <br>
 
-### [View CV](/assets/Luca_Mehl_CV_22.12.2021.pdf)
-
-## About me
-
-My name is Luca Mehl, and I am a Swiss/American computer science BSc student at Imperial College London (UK).
+My name is Luca Mehl, and I am currently a 3rd year Computing MEng student at Imperial College London.
 
 ## Education
 
@@ -18,17 +14,21 @@ My name is Luca Mehl, and I am a Swiss/American computer science BSc student at 
 
 - 3rd year courses include: Concurrent programming, Intro to Machine Learning, Computer Vision, Robotics, Logic-Based learning 
 
-Projects:
+#### Projects:
 
-- PintOS Operating System
+- #### PintOS Operating System
+  <span style="margin-top: 0.25em">  
+    Built a UNIX operating system in C, implementing scheduling (priority donation and multilevel feedback queue scheduling), user/kernel partitioning, system calls, and virtual memory, in a group of 4 over 3 months.
+  </span>
+- #### WACC Compiler
+  <span style="margin-top: 0.25em">
+    Designed and built an optimizing compiler for the WACC programming language from scratch, written in Scala and designed to run on ARM. Created in a group of 4 over 3 months.
+  </span>
+- #### Imperial Module Selection Website
+  <span style="margin-top: 0.25em">
+    Designed and built a website in the MERN stack (MongoDb, Express, React, Node) to help Imperial students pick their optional modules, using human-centered design principles and agile development in a group of 4 over 1 month.
+  </span>
 
-  Built a UNIX operating system in C, implementing scheduling (priority donation and multilevel feedback queue scheduling), user/kernel partitioning, system calls, and virtual memory, in a group of 4 over 3 months.
-- WACC Compiler
-
-  Designed and built an optimizing compiler for the WACC programming language from scratch, written in Scala and designed to run on ARM. Created in a group of 4 over 3 months. 
-- Imperial Module Selection Website
-
-  Designed and built a website in the MERN stack (MongoDb, Express, React, Node) to help Imperial students pick their optional modules, using human-centered design principles and agile development in a group of 4 over 1 month.
 
 ### 2013-2020 IB Bilingual Diploma at The International School of Geneva
 
