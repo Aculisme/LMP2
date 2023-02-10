@@ -28,9 +28,9 @@ description: Luca Mehl's Website
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: ""
   Projects: "projects"
-  Resume: "assets/Luca Mehl CV 04.01.2023 General.pdf"
+  CV: "assets/Luca Mehl CV 04.01.2023 General.pdf"
 #  Trips: "trips"
   # Blog: "index"
 
