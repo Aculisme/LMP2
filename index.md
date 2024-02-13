@@ -10,7 +10,7 @@ Hi I'm Luca, and I'm currently in my fourth year studying Computing at Imperial 
 
 ## Education
 
-### Imperial College London (ICL) MEng Computing (3rd Year) 2020-2024  
+### Imperial College London (ICL) MEng Computing (4th Year) 2020-2024  
 
 **Modules**: Distributed Algorithms, Scalable Systems and Data, Advanced Concurrency, Reinforcement Learning, Deep Learning, Deep Graph-Based Learning, Computer Vision, Network & Web Security
 
