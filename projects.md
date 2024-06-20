@@ -6,15 +6,15 @@ permalink: /projects/
 
 ### Master's Dissertation
 
-**SyncWave - Rapid and Adaptive Decentralized Time Synchronization for Swarm Robotic Systems** [[⤤]](assets/SyncWave_-_Rapid_and_Adaptive_Decentralized_Time_Synchronization_for_Swarm_Robotic_Systems.pdf)
+**SyncWave - Rapid and Adaptive Decentralized Time Synchronization for Swarm Robotic Systems** [[⤤]](/assets/SyncWave_-_Rapid_and_Adaptive_Decentralized_Time_Synchronization_for_Swarm_Robotic_Systems.pdf)
 
 ### University Papers
 
-**GNN framework to predict high-resolution brain connectivity graphs from low-resolution scans.** [[⤤]](assets/Deep_Graph-Based_Learning_Project_Report.pdf)
+**GNN framework to predict high-resolution brain connectivity graphs from low-resolution scans.** [[⤤]](/assets/Deep_Graph-Based_Learning_Project_Report.pdf)
 
-**Software Engineering in Industry** [[⤤]](assets/Software_Engineering_for_Industry_Final_Report.pdf)
+**Software Engineering in Industry** [[⤤]](/assets/Software_Engineering_for_Industry_Final_Report.pdf)
 
-**A solver for cryptic crossword puzzles** [[⤤]](assets/CrypticCrosswordReport.pdf)
+**A solver for cryptic crossword puzzles** [[⤤]](/assets/CrypticCrosswordReport.pdf)
 
 ### High School Papers
 
