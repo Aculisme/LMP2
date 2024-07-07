@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### Master's Dissertation
 
-**SyncWave - Rapid and Adaptive Decentralized Time Synchronization for Swarm Robotic Systems** [[⤤]](/assets/SyncWave_-_Rapid_and_Adaptive_Decentralized_Time_Synchronization_for_Swarm_Robotic_Systems.pdf)
+**SyncWave - Rapid and Adaptive Decentralized Time Synchronization for Swarm Robotic Systems** [[pdf⤤]](/assets/SyncWave_-_Rapid_and_Adaptive_Decentralized_Time_Synchronization_for_Swarm_Robotic_Systems.pdf) [[slides⤤]](/assets/FYP_Presentation_Final.pdf)
 
 ### University Papers
 
