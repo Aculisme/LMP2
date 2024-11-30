@@ -6,7 +6,7 @@ permalink: /
 
 <br>
 
-Hi I'm Luca, and I'm currently in my fourth year studying Computing at Imperial College London.
+Founding Engineer at [Entangl.ai](https://entangl.ai). Former Master's student in Computer Science at Imperial College London.
 
 ## Education
 
@@ -24,6 +24,11 @@ Hi I'm Luca, and I'm currently in my fourth year studying Computing at Imperial 
 - **HL**: Math 7, Physics 7, Geography 7 | **SL**: Chemistry 7, English A 7, French A 6
 
 ## Selected Experience
+
+### Founding Engineer, Entangl.ai November 2024-ongoing
+
+- Find and resolve engineering issues automatically using AI.
+- Y-Combinator-funded (S-24 batch)
 
 ### Software Engineering Intern, Dojo – March-September 2023
 
