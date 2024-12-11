@@ -6,7 +6,7 @@ permalink: /
 
 <br>
 
-Founding Engineer at [Entangl.ai](https://entangl.ai). Former Master's student in Computer Science at Imperial College London.
+Interested in scalable distributed systems and machine learning. Master's graduate in Computer Science from Imperial College London.
 
 ## Education
 
