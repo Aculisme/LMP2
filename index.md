@@ -6,7 +6,9 @@ permalink: /
 
 <br>
 
-Interested in scalable distributed systems and machine learning. Master's graduate in Computer Science from Imperial College London.
+Interested in scalable distributed systems and machine learning.
+<br> 
+Master's graduate in Computer Science from Imperial College London.
 
 ## Education
 
@@ -16,7 +18,8 @@ Interested in scalable distributed systems and machine learning. Master's gradua
 
 ### Master’s Dissertation
 
-**SyncWave**: Rapid and Adaptive Decentralized Time Synchronization for Swarm Robotic Systems (Supervisors: Dr. Michael Breza, Prof. Julie McCann) [[⤤]](assets/SyncWave_-_Rapid_and_Adaptive_Decentralized_Time_Synchronization_for_Swarm_Robotic_Systems.pdf)
+**SyncWave**: Rapid and Adaptive Decentralized Time Synchronization for Swarm Robotic Systems (Supervisors: Dr. Michael Breza, Prof. Julie McCann) [[slides⤤]](assets/FYP_Presentation_Final.pdf) 
+[[pdf⤤]](assets/SyncWave_-_Rapid_and_Adaptive_Decentralized_Time_Synchronization_for_Swarm_Robotic_Systems.pdf)
 
 ### International School of Geneva, Campus des Nations 2020
 
