@@ -28,11 +28,6 @@ Master's graduate in Computer Science from Imperial College London.
 
 ## Selected Experience
 
-### Founding Engineer, Entangl.ai November 2024-ongoing
-
-- Find and resolve engineering issues automatically using AI.
-- Y-Combinator-funded (S-24 batch)
-
 ### Software Engineering Intern, Dojo – March-September 2023
 
 - Worked with Consumer Products team to scale a Restaurant Management System and consumer app with 100k+ weekly users.
